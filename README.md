@@ -22,7 +22,7 @@ In my freetime, I usually play games on [Steam][steam] or take amateur [photogra
   [caha]: https://www.muni.cz/en/people/53172-pavel-caha/cv
   [mas]: https://www.muni.cz/en
   [ud]: https://www.universaldependencies.org
-  [cv]: https://steamcommunity.com/id/lecagot
+  [cv]: cv.pdf
 
 
 
