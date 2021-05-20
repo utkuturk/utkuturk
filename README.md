@@ -9,6 +9,8 @@ I am interested in morphology and its interaction with semantics and phonology. 
 I am an [Universal Dependencies][ud] enthusiast. I participated in the creation Turkish and Laz treebanks. I am currently working on a Romeyka and Ladino treebanks.   
   
 In my freetime, I usually play games on [Steam][steam] or take amateur [photographs][flickr]. My favorite food is [gata][gata] with koritz and my favorite icecream flavor is [saffron and rose][rose].
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkuturk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=material-palenight" /> 
   
 
   
