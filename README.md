@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Hi, I am Utku Türk. I am an MA student in [the Department of Linguistics][department], [Boğaziçi University][uni] under the supervision of [Pavel Logačev][pavel]. I mainly work in agrement attraction in Turkish. Currently, I focus on the effects of response bias in agreement attraction and whether or not everyone is affected uniformly by the bias-related manipulations. You can also check my [CV][cv]!
+Hi, I am Utku Türk, PhD student in [the Department of Linguistics][departmentumd], [University of Maryland, College Park][umd] under the supervision of [Colin Phillips][colin] and [Ellen Lau][ellen].
+
+I completed my MA in [the Department of Linguistics][department], [Boğaziçi University][uni] where I also worked as Graduate Research and Teaching Assistant. My MA thesis supervised by [Pavel Logačev][pavel] is about agrement attraction effects in Turkish, focusing on the effects of response bias in agreement attraction and whether or not everyone is affected uniformly by the bias-related manipulations. Moreover, I also investigated the effects of case ambiguity, register, and task dependencies. You can also check my [CV][cv]!
   
-In my department, I also work as a Research/Teaching assistant. My responsibilities included TA'ing classes, working in projects within the department, and help the department in administrative issues.    
   
 I am interested in morphology and its interaction with semantics and phonology. I was lucky to join [Pavel Caha][caha] at [Masaryk University][mas] to work on various topics including Turkish case syncretism, augmentatives, and suspended affixation.
   
@@ -11,7 +12,10 @@ I am an [Universal Dependencies][ud] enthusiast. I participated in the creation 
 In my freetime, I usually play games on [Steam][steam] or take amateur [photographs][flickr]. My favorite food is [gata][gata] with koritz and my favorite icecream flavor is [saffron and rose][rose].
 
 
-  
+  [departmentumd]: https://linguistics.umd.edu/
+  [umd]: https://umd.edu/
+  [colin]: https://www.colinphillips.net/
+  [ellen]: https://ellenlau.net/
   [department]: http://linguistics.boun.edu.tr
   [uni]: http://www.boun.edu.tr
   [pavel]: http://plogacev.github.io
