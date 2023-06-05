@@ -1,4 +1,3 @@
-<!--
 ### Hi there 👋
 
 Hi, I am Utku Türk, PhD student in [the Department of Linguistics][departmentumd], [University of Maryland, College Park][umd] under the supervision of [Colin Phillips][colin] and [Ellen Lau][ellen].
@@ -30,7 +29,7 @@ In my freetime, I usually play games on [Steam][steam] or take amateur [photogra
   [cv]: cv.pdf
 
 
-
+<!--
 
 **utkuturk/utkuturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
